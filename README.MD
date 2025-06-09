@@ -38,8 +38,16 @@ para colorear los prints
 En este programa comprendimos en profundidad como funcionan y para que se utilizan los algoritmos de busqueda y ordenamiento.
 
 ## 📬  Link al video:
+https://www.youtube.com/watch?v=3GZ-ZmUZhr4 
 
-Link a la presentacion de algoritmos de ordenamiento:
+## Link a la presentacion de algoritmos de ordenamiento:
 https://drive.google.com/file/d/1hdvCzxR_FPDOa1CYFsDZBKrnZQaDqzCc/view?usp=drive_link
 
+## Link a las presentaciones de Busqueda:
+
+Búsqueda binaria:
+https://drive.google.com/file/d/1nN_t6slLhdBT0LqPq3hmxpUbQGiBUZS0/view?usp=sharing 
+
+Algoritmos de ordenamiento:
+https://drive.google.com/file/d/1hdvCzxR_FPDOa1CYFsDZBKrnZQaDqzCc/view?usp=sharing 
 
