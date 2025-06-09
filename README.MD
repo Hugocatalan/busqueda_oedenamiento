@@ -45,8 +45,11 @@ https://drive.google.com/file/d/1hdvCzxR_FPDOa1CYFsDZBKrnZQaDqzCc/view?usp=drive
 
 ## Link a las presentaciones de Busqueda:
 
-Búsqueda binaria:
-https://drive.google.com/file/d/1nN_t6slLhdBT0LqPq3hmxpUbQGiBUZS0/view?usp=sharing 
+Diapositiva búsqueda binaria:
+https://drive.google.com/file/d/13w1sOvvL2Ayo1NsD25zBTXnbw1D0asnd/view?usp=sharing
+
+Búsqueda Lineal:
+https://drive.google.com/file/d/1nN_t6slLhdBT0LqPq3hmxpUbQGiBUZS0/view?usp=sharing
 
 Algoritmos de ordenamiento:
 https://drive.google.com/file/d/1hdvCzxR_FPDOa1CYFsDZBKrnZQaDqzCc/view?usp=sharing 
