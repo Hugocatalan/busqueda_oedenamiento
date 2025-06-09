@@ -121,6 +121,7 @@ print("Para el trabajo practico integrador 2 de la materia de Programacion UTN T
 
 #Comienza parte busqueda binaria
 
+
 def busquedaBinaria(lista, objetivo): # Defino la función de búsqueda binaria
     inicio = 0 #Defino el inicio de la lista
     fin = len(lista) - 1 #Defino el fin de la lista
