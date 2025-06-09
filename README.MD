@@ -13,8 +13,8 @@ Este programa pertenece al Trabajo Practico integrador 2 sobre Busqueda y Ordena
 El programa busca explicar el funcionamiento de dos algoritmos, uno de busqueda binaria y el otro de Bubble Sorting. 
 Muestra los pasos realizados por estos algoritmos para comprender su funcionamiento.
 
-## 💾 Como fue hecho este programa
-Este programa parte de la base de no comprender como funcionan los algoritmos que estamos demostrando, se elijio crear 
+## 💾 Como fue Desarrollado este programa
+Este programa parte de la base de no comprender como funcionan los algoritmos que estamos demostrando, se eligio crear 
 un programa que muestre paso a paso como se realiza una busqueda y como se realiza un ordenamiento, para poder aprender 
 mas en profundidad como funcionan los algoritmos con los que interactuamos diariamente en un sistema informatico sin 
 realmente darnos cuenta de que lo estamos haciendo.
