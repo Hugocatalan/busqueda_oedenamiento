@@ -7,6 +7,8 @@
     Hugo Catalán
     Matias Carro
 
+## 📌 Introduccion
+
 Este programa pertenece al Trabajo Practico integrador 2 sobre Busqueda y Ordenamiento,  para la materia Programacion 1. 
 El programa busca explicar el funcionamiento de dos algoritmos, uno de busqueda binaria y el otro de Bubble Sorting. 
 Muestra los pasos realizados por estos algoritmos para comprender su funcionamiento.
