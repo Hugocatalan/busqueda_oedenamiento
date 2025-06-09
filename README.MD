@@ -39,4 +39,7 @@ En este programa comprendimos en profundidad como funcionan y para que se utiliz
 
 ## 📬  Link al video:
 
+Link a la presentacion de algoritmos de ordenamiento:
+https://drive.google.com/file/d/1hdvCzxR_FPDOa1CYFsDZBKrnZQaDqzCc/view?usp=drive_link
+
 
